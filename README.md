@@ -1,4 +1,4 @@
-# Hi https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif My name is Jainil Patel
+# Hi [!(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)] My name is Jainil Patel
 
 # **MERN Developer and Adolf Rizzler**
 
@@ -34,4 +34,4 @@ parmesan bread, all veggies, chipotle, bbq, mayo sauce, pepper salt
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)](https://github.com/phiineas)
 
 ### Badges
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=phiineas&theme=dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=phiineas&theme=dark&title=Top%20Languages)
