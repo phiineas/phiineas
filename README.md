@@ -1,4 +1,4 @@
-# Hi 👋 My name is Jainil Patel
+# Hi https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif My name is Jainil Patel
 
 # **MERN Developer and Adolf Rizzler**
 
@@ -6,9 +6,9 @@ Still digging deeper into the world of Programming and Development.
 parmesan bread, all veggies, chipotle, bbq, mayo sauce, pepper salt
 
 - 🌍 I'm based in Ahmedabad
-- 📫 You can contact me at jainilpatel18.04@gmail.com
+- 📫 You can contact me at jainilpatel.1804@gmail.com
 - 🧠 I'm learning web3
-- 🤝 I'm open to collaborating on Anything doesnt involve touching grass
+- 🤝 I'm open to collaborating on Anything that doesnt involve touching grass
 
 ### Skills
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -34,4 +34,4 @@ parmesan bread, all veggies, chipotle, bbq, mayo sauce, pepper salt
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)](https://github.com/phiineas)
 
 ### Badges
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=phiineas&layout=compact&theme=dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=phiineas&theme=dark)
