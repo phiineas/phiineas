@@ -1,6 +1,6 @@
 # Hi 👋 My name is Jainil Patel
 
-**MERN Developer and Adolf Rizzler**
+#**MERN Developer and Adolf Rizzler**
 
 Still digging deeper into the world of Programming and Development.
 parmesan bread, all veggies, chipotle, bbq, mayo sauce, pepper salt
@@ -16,7 +16,7 @@ parmesan bread, all veggies, chipotle, bbq, mayo sauce, pepper salt
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons/javascript.svg" alt="JavaScript" width="30" height="30" />
   <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3" alt="CSS" />
   <img src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" alt="Bootstrap" />
