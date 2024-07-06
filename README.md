@@ -11,12 +11,11 @@ parmesan bread, all veggies, chipotle, bbq, mayo sauce, pepper salt
 - 🤝 I'm open to collaborating on Anything doesnt involve touching grass
 
 ### Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" alt="C" />
+  [<img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" alt="C" />](https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png?size=48)
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons/javascript.svg" alt="JavaScript" width="30" height="30" />
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3" alt="CSS" />
   <img src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" alt="Bootstrap" />
@@ -30,7 +29,6 @@ parmesan bread, all veggies, chipotle, bbq, mayo sauce, pepper salt
   <img src="https://img.shields.io/badge/-Raspberry_Pi-000000?style=flat&logo=raspberry-pi" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws" alt="AWS" />
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
 
 ### Socials
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)](https://github.com/phiineas)
