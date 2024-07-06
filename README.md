@@ -34,6 +34,4 @@ parmesan bread, all veggies, chipotle, bbq, mayo sauce, pepper salt
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)](https://github.com/phiineas)
 
 ### Badges
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=phiineas)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=phiineas&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=phiineas&layout=compact&theme=dark)
