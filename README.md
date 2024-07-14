@@ -35,4 +35,5 @@ Still digging deeper into the world of Programming and Development.
 
 ### Badges
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=phiineas&theme=dark)
+
 [![An image of @phiineas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/phiineas)](https://holopin.io/@phiineas)
