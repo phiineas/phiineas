@@ -7,7 +7,7 @@ Still digging deeper into the world of Programming and Development.
 
 - 🌍 I'm based in Ahmedabad
 - 📫 You can contact me at jainilpatel.1804@gmail.com
-- 🧠 I'm learning web3
+- 🧠 I'm learning everything everywhere all at once
 - 🤝 I'm open to collaborating on Anything that doesnt involve touching grass
 
 ### Skills
