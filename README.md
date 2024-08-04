@@ -32,6 +32,7 @@ Still digging deeper into the world of Programming and Development.
 
 ### Socials
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)](https://github.com/phiineas)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@phiineas)
 
 ### Badges
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=phiineas&theme=dark)
