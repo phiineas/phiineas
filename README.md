@@ -1,9 +1,10 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Jainil Patel
 
-# **don't be an idiot - scott**
+# **don't be an idiot - michael g scott**
 
-Still digging deeper into the world of Programming and Development and i like to keep my repositories private.
+Still digging deeper into the world of Programming and Development.
 </br>parmesan bread, all veggies, chipotle, bbq, mayo sauce, pepper salt
+</br>i like to keep my repositories private.
 
 - 🌍 I'm based in Ahmedabad
 - 📫 You can contact me at jainilpatel.1804@gmail.com
