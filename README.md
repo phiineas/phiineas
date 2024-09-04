@@ -1,6 +1,6 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Jainil Patel
 
-# **don't be an idiot - michael g scott**
+# **developer and programmer**
 
 Still digging deeper into the world of Programming and Development.
 </br>parmesan bread, all veggies, chipotle, bbq, mayo sauce, pepper salt
