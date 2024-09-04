@@ -1,8 +1,8 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Jainil Patel
 
-# **MERN Developer and Adolf Rizzler**
+#**don't be an idiot - scott**
 
-Still digging deeper into the world of Programming and Development.
+Still digging deeper into the world of Programming and Development and i like to keep my repositories private.
 </br>parmesan bread, all veggies, chipotle, bbq, mayo sauce, pepper salt
 
 - 🌍 I'm based in Ahmedabad
