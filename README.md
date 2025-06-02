@@ -41,13 +41,11 @@ Still digging deeper into the world of Programming and Development.
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phiineas&show_icons=true&theme=radical)
-
 ### Socials
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)](https://github.com/phiineas)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://phiineas.hashnode.dev)
 
 ### Badges
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phiineas&hide=Jupyter%20Notebook&layout=compact&theme=radical)](https://github.com/phiineas)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phiineas&hide=Jupyter%20Notebook&layout=compact&theme=dracula)](https://github.com/phiineas)
 
 [![An image of @phiineas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/phiineas)](https://holopin.io/@phiineas)
